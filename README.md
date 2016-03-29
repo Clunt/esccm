@@ -12,4 +12,4 @@
 ## People
 
 ## License
-[MIT]()
+[MIT](https://github.com/Clunt/esccm/blob/master/LICENSE)
